@@ -32,6 +32,7 @@ def read_msg(serialdev):
 			msglen += 1
 			if msglen >= MSGMAP[msg[0]]:
 				if checksum(msg):
+					print msg
 					return msg
 				s = 0
 
