@@ -1,4 +1,4 @@
-HK-T6Av2
+HK-T6Av2 - Added for pluto to interface on ROS messages
 ========
 Serial protocol description between computer and HK-T6Av2 RC remote
 
